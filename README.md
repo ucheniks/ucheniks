@@ -33,29 +33,7 @@
 
 ###
 
-<div align="center">
-  <!-- Film Platform API -->
-  <a href="https://github.com/ucheniks/film-platform-ap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=film-platform-api&theme=dracula&show_owner=true" height="130" alt="Film Platform API" />
-  </a>
-  
-  <!-- ShareIt Platform -->
-  <a href="https://github.com/ucheniks/shareit-platfor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=shareit-platform&theme=dracula&show_owner=true" height="130" alt="ShareIt Platform" />
-  </a>
-</div>
 
-<div align="center">
-  <!-- Event Explorer Platform -->
-  <a href="https://github.com/ucheniks/event-explorer-platfor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=event-explorer-platform&theme=dracula&show_owner=true" height="130" alt="Event Explorer Platform" />
-  </a>
-  
-  <!-- Task Manager -->
-  <a href="https://github.com/ucheniks/task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=task-manager&theme=dracula&show_owner=true" height="130" alt="Task Manager" />
-  </a>
-</div>
 
 ###
 
