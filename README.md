@@ -34,6 +34,11 @@
 ###
 
 <div align="center">
+  <!-- Bank Cards Management System -->
+  <a href="https://github.com/ucheniks/bank-rest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=bank-rest&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Bank Cards Management System" />
+  </a>
+
   <!-- Film Platform API -->
   <a href="https://github.com/ucheniks/film-platform-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ucheniks&repo=film-platform-api&theme=dracula&show_owner=true&cache_seconds=3600" height="130" alt="Film Platform API" />
